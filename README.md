@@ -7,6 +7,7 @@ POJO-Excel bidirectional mapper
 * well tested
 * well documented
 * minimal number of dependencies
+* thread safe
 
 ## Assumptions
 * low level access to Excel via Apache POI
