@@ -14,7 +14,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
         <poi.version>3.17</poi.version>
-        <spring.version>4.3.16.RELEASE</spring.version>
+        <spring.version>4.3.19.RELEASE</spring.version>
         <junit.version>4.12</junit.version>
         <assertj.version>3.9.1</assertj.version>
         <mockito.version>2.18.0</mockito.version>
